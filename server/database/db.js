@@ -1,6 +1,5 @@
 import { config } from 'dotenv';
 import pkg from "pg";
-
 // Load environment variables immediately
 config({ path: './config/config.env' });
 
